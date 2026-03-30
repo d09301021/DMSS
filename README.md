@@ -1,3 +1,9 @@
-# Welcome to your Lovable project
+# DMSS - 文件管理系統 (Notion 風格)
 
-TODO: Document your project here
+基於 React + Vite + Supabase 打造的現代化文件管理系統。
+
+## 特色
+- **Notion 簡約風格**：扁平化設計、乾淨的邊框與流暢的動畫。
+- **Supabase 整合**：完整的身份驗證與自動 Profile 同步機制。
+- **文件管理**：支援 SOP、政策、管理辦法等分類管理與審閱工作流。
+- **AI 輔助**：整合 RAG 技術進行文件摘要與智慧洞察。
